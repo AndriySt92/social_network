@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.app-wrapper {
+  margin: 0 auto;
+  display: grid;
+  width: 1200px;
+  height: 2200px;
+  grid-template-areas: "h h" "n c";
+
+  grid-template-rows: 10% 90%;
+  grid-template-columns: 20% 80%;
+  /* grid-gap: 10px; */
+}
+
+.app-wrapper-content {
+  grid-area: c;
+  background: rgb(219,240,11);
+background: linear-gradient(38deg, rgba(219,240,11,1) 0%, rgba(219,236,9,1) 80%,rgba(0,212,255,1) 100%);
+
+}

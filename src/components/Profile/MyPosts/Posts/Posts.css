@@ -1,0 +1,21 @@
+.posts {
+    max-height: 120px;
+
+}
+
+.posts p {
+    position: relative;
+    bottom: 93px;
+    left: 80px;
+}
+
+.posts img {
+    width: 70px;
+    height: 70px;
+}
+
+span {
+    color: rgb(156, 11, 11);
+    position: relative;
+    bottom: 50px;
+}

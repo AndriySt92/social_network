@@ -1,0 +1,16 @@
+
+.friendItem {
+    width: 30%;
+
+ 
+}
+.friendItem img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.friendItem p{
+    margin-top: 2px;
+    cursor: pointer;
+}

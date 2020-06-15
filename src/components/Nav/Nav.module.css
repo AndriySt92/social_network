@@ -1,0 +1,26 @@
+.nav {
+    grid-area: n;
+    background: rgb(11, 211, 230);
+    background: linear-gradient(38deg, rgba(0,255,235,1) 7%, rgba(86,186,251,1) 12%,rgba(34,16,15,1) 100%);
+    padding: 20px;
+}
+
+.item a{
+    display: inline-block;
+    padding: 5px 20px;
+    color: rgb(80, 241, 150);
+    margin: 0 auto;
+    text-decoration: none;
+    font-size:20px;
+    
+}
+.friend {
+    margin-top: 80px;
+    text-align: center;
+    color: rgb(80, 241, 120);
+}
+.friendInner {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,12 @@
+.profile-info {
+    display: flex;
+    flex-direction: row;
+}
+.photo img {
+    width: 300px;
+    height: 340px; 
+}
+.photo {
+    width: 40%;
+    padding: 10px;
+}

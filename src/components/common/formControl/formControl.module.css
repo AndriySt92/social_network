@@ -1,0 +1,22 @@
+.textarea.error textarea {
+    border: 2px solid red;
+}
+.alertError {
+    display: flex;
+}
+.alertError img {
+    width: 20px;
+    height: 20px;
+}
+
+.alertError p {
+
+    color:red;
+    margin: 0px 0px;
+    margin-left: 5px;
+}
+.formSummeryError {
+    color:red;
+    padding: 10px;
+    
+}

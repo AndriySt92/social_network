@@ -1,0 +1,10 @@
+.dialogs-item div{
+    display: block;
+}
+.dialog a {
+    text-decoration: none;
+    color:rgb(59, 70, 58);
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+}

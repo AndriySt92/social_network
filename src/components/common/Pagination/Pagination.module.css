@@ -1,0 +1,15 @@
+
+.pagesNumber {
+    display: flex;
+ 
+}
+
+.pagesNumber div{
+    display: flex;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
